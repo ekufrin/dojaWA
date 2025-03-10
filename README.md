@@ -22,6 +22,6 @@
 
 ## Izgled poruka
 
-![Izgled](https://github.com/ekufrin/dojaWA/blob/c6175ceb585ef8ec8bc12cc4ef3692cf47ff183f/izgled.jpeg)
+![Izgled](https://github.com/ekufrin/dojaWA/blob/1f7818f6dc7121b5fa6e1c787d0713842f4c2c80/izgled.jpeg)
 
 ### 👨‍🔬 Sustav je trenutno besplatan i u fazi testiranja
