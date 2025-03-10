@@ -7,7 +7,9 @@
 
 📝 Ovisno o kontekstu poruke, bot šalje poruku sa unaprijed određenim naslovom: 
 👮 Policija 👮,
-🎥 Radar 🎥, 💥 Prometna Nesreća 💥, 🚚 Vaga 🚚
+🎥 Radar 🎥, 
+💥 Prometna Nesreća 💥,
+🚚 Vaga 🚚
 
 # 🔔 Trenutne funkcije:
 
